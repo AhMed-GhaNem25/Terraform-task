@@ -1,0 +1,4 @@
+.terraform/
+Nmain
+test 1
+*.hcl
